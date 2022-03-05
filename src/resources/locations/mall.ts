@@ -21,6 +21,7 @@ export const mall: Location = {
 			quotes: [
 				'We are many, we are one.',
 				'*you hear the collective screams of many different zombies*'
+				
 			],
 			xp: 1000,
 			attackPenetration: 2.0,
@@ -83,7 +84,8 @@ export const mall: Location = {
 			quotes: [
 				'What did you do with sarah?!',
 				'Tell me where you took her!',
-				'I fear no man. But that thing, it scares me.'
+				'I fear no man. But that thing, it scares me.',
+				'What are you DOING HERE!?!?!'
 			],
 			armor: items.aramid_armor,
 			xp: 550,
