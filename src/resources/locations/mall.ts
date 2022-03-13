@@ -76,7 +76,6 @@ export const mall: Location = {
 				common: [items.dereks_shop_key],
 				uncommon: [items['9mm_AP_bullet'], items['5.45x39mm_HP_bullet'], items.F1_grenade, items.adrenaline],
 				rare: [items.SS190_bullet],
-				rarest: [items.hideout_key],
 				rolls: 2
 			},
 			weapon: items.bobwhite_g2,
