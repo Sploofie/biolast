@@ -70,20 +70,22 @@ export const mall: Location = {
 		npc: {
 			type: 'raider',
 			display: 'Derek',
-			health: 200,
-			damage: 45,
+			health: 160,
+			damage: 40,
 			drops: {
 				common: [items.dereks_shop_key],
 				uncommon: [items['9mm_AP_bullet'], items['5.45x39mm_HP_bullet'], items.F1_grenade, items.adrenaline],
 				rare: [items.SS190_bullet],
+				rarest: [items.hideout_key],
 				rolls: 2
 			},
 			weapon: items.bobwhite_g2,
 			ammo: items['20-gauge_buckshot'],
 			quotes: [
-				'What did you do with sarah?!',
+				'What did you do with Sarah?!',
 				'Tell me where you took her!',
-				'I fear no man. But that thing, it scares me.'
+				'I fear no man. But that thing, it scares me.',
+				'WHAT ARE YOU DOING HERE!?!?!',
 			],
 			armor: items.aramid_armor,
 			xp: 550,
