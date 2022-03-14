@@ -84,7 +84,7 @@ export const mall: Location = {
 				'What did you do with Sarah?!',
 				'Tell me where you took her!',
 				'I fear no man. But that thing, it scares me.',
-				'WHAT ARE YOU DOING HERE!?!?!',
+				'WHAT ARE YOU DOING HERE!?!?!'
 			],
 			armor: items.aramid_armor,
 			xp: 550,
